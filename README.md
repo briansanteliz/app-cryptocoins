@@ -7,3 +7,4 @@ Resources:
 * [Cryptocompare](https://www.cryptocompare.com/)
 * [Bootswatch](https://bootswatch.com)
 
+![App-CriptoCoins](/doc/app.png)
