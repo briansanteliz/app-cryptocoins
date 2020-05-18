@@ -4,5 +4,6 @@ Instantly quote cryptocoins trought Api of cryptocompare.com. It is built with V
 
 Resources:
 
-[Cryptocompare](https://www.cryptocompare.com/)
-[Bootswatch](https://bootswatch.com)
+* [Cryptocompare](https://www.cryptocompare.com/)
+* [Bootswatch](https://bootswatch.com)
+
